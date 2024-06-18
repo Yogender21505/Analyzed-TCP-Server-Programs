@@ -1,5 +1,6 @@
 ### Images from Computer Networks Repository
-
+- [colorschememapping.xml](Computer%20Networks_files/colorschememapping.xml)
+- [filelist.xml](Computer%20Networks_files/filelist.xml)
 ![Image 1](Computer%20Networks_files/image001.jpg)
 ![Image 2](Computer%20Networks_files/image002.jpg)
 ![Image 3](Computer%20Networks_files/image003.jpg)
