@@ -1,5 +1,5 @@
 ### Observations with detailed plots and tables to compare performance metrics.
-
+- ![Image 0](Computer%20Networks_files/image.jpg)
 - ![Image 1](Computer%20Networks_files/image001.jpg)
 - ![Image 2](Computer%20Networks_files/image002.jpg)
 - ![Image 3](Computer%20Networks_files/image003.jpg)
