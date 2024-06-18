@@ -1,4 +1,4 @@
-### Files and Images from Computer Networks Repository
+### Observations with detailed plots and tables to compare performance metrics.
 
 - ![Image 1](Computer%20Networks_files/image001.jpg)
 - ![Image 2](Computer%20Networks_files/image002.jpg)
@@ -8,8 +8,3 @@
 - ![Image 6](Computer%20Networks_files/image006.jpg)
 - ![Image 7](Computer%20Networks_files/image007.jpg)
 - ![Image 8](Computer%20Networks_files/image008.jpg)
-
-### XML Files from Computer Networks Repository
-
-- [View colorschememapping.xml](Computer%20Networks_files/colorschememapping.xml)
-- [View filelist.xml](Computer%20Networks_files/filelist.xml)
