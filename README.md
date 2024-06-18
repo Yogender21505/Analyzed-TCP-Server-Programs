@@ -9,5 +9,7 @@
 - ![Image 7](Computer%20Networks_files/image007.jpg)
 - ![Image 8](Computer%20Networks_files/image008.jpg)
 
-- [colorschememapping.xml](Computer%20Networks_files/colorschememapping.xml)
-- [filelist.xml](Computer%20Networks_files/filelist.xml)
+### XML Files from Computer Networks Repository
+
+- [View colorschememapping.xml](Computer%20Networks_files/colorschememapping.xml)
+- [View filelist.xml](Computer%20Networks_files/filelist.xml)
